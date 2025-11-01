@@ -1,0 +1,70 @@
+h1 {
+    color: whitesmoke
+}
+h2 {
+    color: whitesmoke
+}
+h3 {
+    color: whitesmoke
+}
+h4 {
+    color: whitesmoke
+}
+p {
+    color: whitesmoke
+        
+}
+a {
+    color: whitesmoke
+}
+#description {
+    color: whitesmoke
+}
+img[alt = phone3a] {
+    border: 4px solid whitesmoke;
+    border-radius: 20px
+}
+.manual {
+    color: whitesmoke;
+    width: 1820px;
+    height: 830px;
+     border-radius: 10px;
+    overflow: hidden;
+    border-collapse: separate;
+    border-spacing: 5px;
+    padding-left: 5px;
+}
+.manual td {
+    border: 1px solid red;
+}
+.manual .footer {
+    width: 120px;
+    height: 10px;
+    border-radius: 10px;
+}
+.manual .header {
+    height: 120px;
+    padding-left: 40%;
+    border-radius: 10px;
+    
+}
+.manual .sidebar {
+    width: 240px;
+    display: block;                /* Каждая ссылка на новой строке */
+    margin-bottom: 15px;          /* Расстояние между ссылками */
+    padding-bottom: 10px 15px;           /* Внутренние отступы */
+    color: white;                 /* Цвет текста */
+    border-radius: 10px;           /* Закругленные углы */
+    transition: background-color 0.3s;
+}
+.manual .content {
+    border-radius: 10px;
+    padding-left: 5px;
+}
+.descript .table {
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.descript {
+    border-radius: 10px;
+}
